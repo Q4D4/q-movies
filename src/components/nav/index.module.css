@@ -1,0 +1,10 @@
+.container {
+	height: 60px;
+	padding: 0px 15px;
+	bottom: 0px;
+	left: 0px;
+}
+
+
+@media (min-width: 1010px) {
+}

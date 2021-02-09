@@ -13,3 +13,88 @@ html {
 	-ms-text-size-adjust: 100%;
 	-webkit-text-size-adjust: 100%;
 }
+
+/*
+	COMMON PROPERTIES
+*/
+
+/* Fonts */
+.ff-m {
+	font-family: "BPG Mrgvlovani", sans-serif;
+}
+
+.ff-mc {
+	font-family: "BPG Mrgvlovani Caps", sans-serif;
+}
+
+/* Width / Heigh */
+.w-100 {
+	width: 100%;
+}
+
+.h-100 {
+	height: 100%;
+}
+
+/* Position */
+.p-r {
+	position: relative;
+}
+
+.p-f {
+	position: fixed;
+}
+
+.p-a {
+	position: absolute;
+}
+
+/* Display */
+.d-b {
+	display: block;
+}
+
+.d-f {
+	display: flex;
+}
+
+.d-f--cc {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+/* Transition */
+.t-s {
+	transition: 0.3s;
+}
+
+.t-n {
+	transition: 0.2s;
+}
+
+.t-f {
+	transition: 0.1s;
+}
+
+/* Opacity */
+.op-h {
+	opacity: 0.5;
+}
+
+.op-f {
+	opacity: 1;
+}
+
+/* Others */
+.ta-c {
+	text-align: center;
+}
+
+.o-h {
+	overflow: hidden;
+}
+
+.td-n {
+	text-decoration: none;
+}

@@ -1,12 +1,12 @@
 import { Fragment } from 'react';
 
-const Home = props => {
+const Movies = props => {
 	return (
 		<Fragment>
 			{props.children}
-			<h1>home</h1>
+			<h1>Movies</h1>
 		</Fragment>
 	);
 }
 
-export default Home;
+export default Movies;
